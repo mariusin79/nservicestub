@@ -6,3 +6,4 @@ _Resharper*
 *.DotSettings.user
 deploy.ps1
 packages
+.vs
